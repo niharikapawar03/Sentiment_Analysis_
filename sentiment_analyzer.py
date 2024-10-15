@@ -1,10 +1,4 @@
-#
-# Natural Language Toolkit: Sentiment Analyzer
-#
-# Copyright (C) 2001-2023 NLTK Project
-# Author: Pierpaolo Pantone <24alsecondo@gmail.com>
-# URL: <https://www.nltk.org/>
-# For license information, see LICENSE.TXT
+
 
 """
 A SentimentAnalyzer is a tool to implement and facilitate Sentiment Analysis tasks
